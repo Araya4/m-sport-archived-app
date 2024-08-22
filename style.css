@@ -4,7 +4,7 @@
 
 .video-container {
     position: relative; /* Required for absolute positioning of the iframe */
-    width: 90%; /* Set the desired width */
+    width: 100%; /* Set the desired width */
     padding-top: 62.5%; /* 4:3 Aspect Ratio (3 / 4 = 0.75 or 75%) */
     margin: 0 auto; /* Center the container horizontally */
     overflow: hidden; /* Hide anything outside the container */
@@ -12,13 +12,20 @@
 
   /* Style for the iframe */
   .video-container iframe {
-    margin-top: 1%;
     position: absolute; /* Position the iframe absolutely within the container */
-    top: 0;
+    top: 1%;
     left: 0;
-    width: 70%; /* Make iframe fill the container */
-    height: 70%; /* Make iframe fill the container */
+    width: 100%; /* Make iframe fill the container */
+    height: 100%; /* Make iframe fill the container */
+    overflow: hidden;
   }
+
+  @media (max-width: 600px) {
+    .iframe-container {
+        padding-top: 62.5%; /* 4:3 Aspect Ratio */
+    }
+}
+
   .container{
     width: 100%;
     margin-left: 0;
