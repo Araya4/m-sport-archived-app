@@ -14,7 +14,7 @@
   .video-container iframe {
     position: absolute; /* Position the iframe absolutely within the container */
     top: 1%;
-    left: 0;
+    left: 1%;
     width: 100%; /* Make iframe fill the container */
     height: 100%; /* Make iframe fill the container */
     overflow: hidden;
