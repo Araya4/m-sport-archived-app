@@ -1,0 +1,43 @@
+.dropdown-item {
+    cursor: pointer;
+}
+
+.video-container {
+    position: relative; /* Required for absolute positioning of the iframe */
+    width: 90%; /* Set the desired width */
+    padding-top: 62.5%; /* 4:3 Aspect Ratio (3 / 4 = 0.75 or 75%) */
+    margin: 0 auto; /* Center the container horizontally */
+    overflow: hidden; /* Hide anything outside the container */
+  }
+
+  /* Style for the iframe */
+  .video-container iframe {
+    margin-top: 1%;
+    position: absolute; /* Position the iframe absolutely within the container */
+    top: 0;
+    left: 0;
+    width: 70%; /* Make iframe fill the container */
+    height: 70%; /* Make iframe fill the container */
+  }
+  .container{
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0.5%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .container select{
+    width: 15%;
+    margin-left: 0.5%;
+}
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+}
+
+.dropdown{
+    margin-left: 0.5%;
+}
