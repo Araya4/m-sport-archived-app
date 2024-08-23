@@ -64,5 +64,5 @@ const buttomImg = {'Sports Time':'https://i.ibb.co/mFPhThL/ch3-profile.jpg',
     'Thailand Volleyball':'https://i.ibb.co/jH7GDWx/workpoint-profile.jpg',
     'Power Volleyball':'https://i.ibb.co/Ntcc2bK/PWV-favicon-32x32.png',
     'PPTV HD 36':'https://i.ibb.co/qmJ6Zyy/pptv-profile.jpg',
-    "kovo":"https://i.ibb.co/k9bC8Fp/Pornpun.jpg",
+    "kovo":"https://i.ibb.co/zrJtyK1/voli-korea.png",
     "One":"https://i.ibb.co/MctFZx3/images-q-tbn-ANd9-Gc-TUq-BDB6d-YHIw1-CV6hd-MQa1w-HYTw-W4nenx-HDQ-s.jpg"};
