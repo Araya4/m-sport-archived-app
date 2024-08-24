@@ -53,8 +53,7 @@ const entries = [
     {"label":"Playlist 2024","url":"https://www.youtube.com/embed/videoseries?list=PLymm91FIIzMtMv3yy56O0SQNmgWvG96YX","sourceName":"youtubeLogo"},
     {"label":"🇹🇭 vs. 🇧🇷 - Quarter Finals | VNL 2024","url":"https://www.youtube.com/embed/fPUJfwYIBQc","sourceName":"Volleyball World"},
     {"label":"🇧🇬 vs. 🇹🇭 - Highlights | Week 3 | VNL 2024","url":"https://www.youtube.com/embed/RCdADH7jK-8","sourceName":"Volleyball World"},
-    {"label":"4th SEA V.League THA vs VIE Korat","url":"https://www.youtube.com/embed/uigAjoUYFfc","sourceName":"One"},
-    {"label":"KOVO V-league","url":"https://www.youtube.com/embed/videoseries?list=PLymm91FIIzMuxfxS6DoRsX8LyVG3Nmku8","sourceName":"kovo"}
+   {"label":"KOVO V-league","url":"https://www.youtube.com/embed/videoseries?list=PLymm91FIIzMuxfxS6DoRsX8LyVG3Nmku8","sourceName":"kovo"}
 ];
 
 const buttomImg = {'Sports Time':'https://i.ibb.co/mFPhThL/ch3-profile.jpg',
