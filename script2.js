@@ -9,7 +9,7 @@ const chunkArray = (arr, sizes) => {
 };
 
 // Define sizes for each dropdown
-const dropdownSizes = [10, 21, 9, 11,4]; // Total should equal the number of items in `data`
+const dropdownSizes = [10, 21, 9, 11,3]; // Total should equal the number of items in `data`
 const chunks = chunkArray(entries, dropdownSizes);
 const buttonName = ['Before 2022','VNL2022','WC2022','2023','2024'];
 
