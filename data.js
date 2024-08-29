@@ -52,8 +52,7 @@ const entries = [
     {"label":"🇹🇭 vs 🇨🇴 | OQT 2023","url":"https://www.youtube.com/embed/ead1CmyRPGM","sourceName":"Power Volleyball"},
     {"label":"Playlist 2024","url":"https://www.youtube.com/embed/videoseries?list=PLymm91FIIzMtMv3yy56O0SQNmgWvG96YX","sourceName":"youtubeLogo"},
     {"label":"🇹🇭 vs. 🇧🇷 - Quarter Finals | VNL 2024","url":"https://www.youtube.com/embed/fPUJfwYIBQc","sourceName":"Volleyball World"},
-    {"label":"🇧🇬 vs. 🇹🇭 - Highlights | Week 3 | VNL 2024","url":"https://www.youtube.com/embed/RCdADH7jK-8","sourceName":"Volleyball World"},
-   {"label":"KOVO V-league","url":"https://www.youtube.com/embed/videoseries?list=PLymm91FIIzMuxfxS6DoRsX8LyVG3Nmku8","sourceName":"kovo"}
+    {"label":"🇧🇬 vs. 🇹🇭 - Highlights | Week 3 | VNL 2024","url":"https://www.youtube.com/embed/RCdADH7jK-8","sourceName":"Volleyball World"}
 ];
 
 const buttomImg = {'Sports Time':'https://i.ibb.co/mFPhThL/ch3-profile.jpg',
